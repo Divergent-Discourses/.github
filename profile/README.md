@@ -10,5 +10,5 @@ Computational objectives: the project's initial goal is to develop the tools nec
 
 The project team includes researchers from the University of Leipzig in Germany (Franz Xaver Erhard) and SOAS University of London in the UK (Robert Barnett and James Engels), with collaboration from Trinity College Dublin (Nathan Hill), as well as from Staatsbiliothek zu Berlin (CrossAsia), the Library of the Grassi Museum für Völkerkünder zu Leipzig, the Oriental Institute of the Czech Academy of Sciences, and others. It is jointly funded by the Deutsche Forschungsgemeinschaft (**DFG**) in Germany and the Arts and Humanities Research Council (**AHRC**) in the UK and will run from 2023 to 2026. For more details on the project, see our website at https://research.uni-leipzig.de/diverge/.
 
-Licence: You are weclome to use the project data and code, but please acknowledge the project by name when doing so.  
+Licence: You are welcome to use the project data and code, but please acknowledge the project by name when doing so.  
  
